@@ -11,7 +11,7 @@ lsptsvc.m: implementation of proposed lsptsvc algorithm. Takes parameters c1, c2
 
 For quickly reproducing the results of the pinTSVC algorithm, we have made a newd folder containing a sample dataset. One can simply run the main.m file to check the obtained results on this sample dataset. To run experiments on more datasets, simply add datasets in the newd folder and run main.m file. The code has been tested on Windows 10 with MATLAB R2017a.
 
-*This code is for non-commercial and academic use only.
+* This code is for non-commercial and academic use only.
 
 Please cite the following paper if you are using this code.
 
