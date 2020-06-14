@@ -5,7 +5,7 @@ Least squares projection twin support vector clustering (LSPTSVC), Information S
 
 Description of files (Linear and non-linear cases):
 
-main.m: selecting parameters of lsptsvc using k fold cross-validation. One can select paramters c1 (denoted by variable csv1), c2 (denoted by variable csv2), mu (denoted by variable mus) to be used in grid-search method.
+main.m: selecting parameters of lsptsvc using k fold cross-validation. One can select parameters c1 (denoted by variable csv1), c2 (denoted by variable csv2), mu (denoted by variable mus) to be used in grid-search method.
 
 lsptsvc.m: implementation of proposed lsptsvc algorithm. Takes parameters c1, c2, mu (for non-linear case), training data and test data and provides accuracy obtained and running time.
 
@@ -17,4 +17,4 @@ Reference: Least squares projection twin support vector clustering (LSPTSVC), In
 
 For further details regarding working of algorithm, please refer to the paper.
 
-If further information is required please contact on: phd1701241001@iiti.ac.in
+If further information is required please contact on: phd1701241001@iiti.ac.in.
