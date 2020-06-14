@@ -19,4 +19,4 @@ Reference: Least squares projection twin support vector clustering (LSPTSVC), In
 
 For further details regarding working of algorithm, please refer to the paper.
 
-If further information is required please contact on: phd1701241001@iiti.ac.in.
+If further information is required you may contact on: phd1701241001@iiti.ac.in.
