@@ -11,6 +11,8 @@ lsptsvc.m: implementation of proposed lsptsvc algorithm. Takes parameters c1, c2
 
 For quickly reproducing the results of the pinTSVC algorithm, we have made a newd folder containing a sample dataset. One can simply run the main.m file to check the obtained results on this sample dataset. To run experiments on more datasets, simply add datasets in the newd folder and run main.m file. The code has been tested on Windows 10 with MATLAB R2017a.
 
+*This code is for non-commercial and academic use only.
+
 Please cite the following paper if you are using this code.
 
 Reference: Least squares projection twin support vector clustering (LSPTSVC), Information Sciences, Volume 533, 2020, Pages 1-23, https://doi.org/10.1016/j.ins.2020.05.001.
@@ -18,5 +20,3 @@ Reference: Least squares projection twin support vector clustering (LSPTSVC), In
 For further details regarding working of algorithm, please refer to the paper.
 
 If further information is required please contact on: phd1701241001@iiti.ac.in.
-
-*This code is for non-commercial and academic use only.
