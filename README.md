@@ -7,7 +7,7 @@ Description of files (Linear and non-linear cases):
 
 main.m: selecting parameters of lsptsvc using k fold cross-validation. One can select parameters c1 (denoted by variable csv1), c2 (denoted by variable csv2), mu (denoted by variable mus) to be used in grid-search method.
 
-lsptsvc.m: implementation of proposed lsptsvc algorithm. Takes parameters c1, c2, mu (for non-linear case), training data and test data and provides accuracy obtained and running time.
+lsptsvc.m: implementation of lsptsvc algorithm. Takes parameters c1, c2, mu (for non-linear case), training data and test data and provides accuracy obtained and running time.
 
 For quickly reproducing the results of the lsptsvc algorithm, we have made a newd folder containing a sample dataset. One can simply run the main.m file to check the obtained results on this sample dataset. To run experiments on more datasets, simply add datasets in the newd folder and run main.m file. The code has been tested on Windows 10 with MATLAB R2017a.
 
